@@ -1,0 +1,22 @@
+[
+    {
+        "id": "boxBoxCollision2D",
+        "by": "Clockwork Team"
+    },
+    {
+        "id": "gamepad",
+        "by": "Clockwork Team"
+    },
+    {
+        "id": "keyboard",
+        "by": "Clockwork Team"
+    },
+    {
+        "id": "mouse",
+        "by": "Clockwork Team"
+    },
+    {
+        "id": "pointBoxCollision2D",
+        "by": "Clockwork Team"
+    }
+]
